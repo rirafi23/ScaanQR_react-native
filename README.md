@@ -1,0 +1,1 @@
+# ScaanQR_react-native
